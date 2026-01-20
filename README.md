@@ -57,7 +57,7 @@ Main na pasta raiz (src)
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/Sistema-CRUD-Java.git
+   git clone https://github.com/otaviohenriq7/Sistema-CRUD-Java.git
    ```
 2. Importe o projeto em sua IDE Java;
 3. Execute a classe `Main.java`;
