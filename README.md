@@ -35,16 +35,13 @@ As operações são realizadas de forma estruturada, respeitando os princípios 
 
 A organização do projeto segue uma separação clara de responsabilidades, aplicando o padrão de camadas:
 
-```
-📁 src
- ┣ 📁 modelo
- ┃ ┗ 📄 Produto.java           # Classe que representa a entidade Produto;
- ┣ 📁 repositorio
- ┃ ┗ 📄 ProdutoRepositorio.java # Responsável pelo armazenamento e acesso aos dados;
- ┣ 📁 servico
- ┃ ┗ 📄 ProdutoServico.java     # Contém as regras de negócio do sistema;
- ┗ 📄 Main.java                 # Classe principal que executa o CRUD.
-```
+📦 modelo → Produto
+
+📦 repositorio → ProdutoRepositorio
+
+📦 servico → ProdutoServico
+
+🚀 Main.java na raiz da pasta src
 ---
 
 ## Como Executar o Projeto
