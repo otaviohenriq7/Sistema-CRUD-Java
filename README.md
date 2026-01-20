@@ -45,12 +45,9 @@ A organização do projeto segue uma separação clara de responsabilidades, apl
  ┃ ┗ 📄 ProdutoServico.java     # Contém as regras de negócio do sistema;
  ┗ 📄 Main.java                 # Classe principal que executa o CRUD.
 ```
-
-Essa estrutura facilita a manutenção, leitura e evolução do sistema.
-
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 
