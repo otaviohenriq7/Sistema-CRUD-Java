@@ -12,11 +12,11 @@ O sistema permite o gerenciamento de entidades por meio de operações básicas 
 
 Durante o desenvolvimento do projeto, foram utilizados os seguintes conceitos fundamentais da Programação Orientada a Objetos:
 
-* **Encapsulamento**: controle de acesso aos atributos por meio de modificadores e métodos getters/setters;
+* **Encapsulamento**: controle de acesso aos atributos por meio de modificadores e métodos gets/sets;
 * **Abstração**: definição de classes que representam entidades do mundo real;
-* **Herança**: reaproveitamento de código entre classes relacionadas (quando aplicável);
+* **Herança**: reaproveitamento de código entre classes relacionadas;
 * **Polimorfismo**: possibilidade de tratar objetos de diferentes classes de forma uniforme;
-* **Separação de responsabilidades**: organização do sistema em camadas (model, service, repository, etc.).
+* **Separação de responsabilidades**: organização do sistema em camadas (modelo, serviço, repositório, etc.).
 
 ---
 
