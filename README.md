@@ -1,6 +1,6 @@
 # Sistema CRUD em Java (Programação Orientada a Objetos)
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 
 Este repositório apresenta um **sistema CRUD (Create, Read, Update e Delete)** desenvolvido em **Java**, aplicando de forma prática os principais conceitos da **Programação Orientada a Objetos (POO)**. O projeto tem como objetivo demonstrar organização de código, reutilização, manutenção e boas práticas no desenvolvimento de software orientado a objetos.
 
@@ -8,7 +8,7 @@ O sistema permite o gerenciamento de entidades por meio de operações básicas 
 
 ---
 
-## 🧠 Conceitos de POO Aplicados
+## Conceitos de POO Aplicados
 
 Durante o desenvolvimento do projeto, foram utilizados os seguintes conceitos fundamentais da Programação Orientada a Objetos:
 
@@ -20,7 +20,7 @@ Durante o desenvolvimento do projeto, foram utilizados os seguintes conceitos fu
 
 ---
 
-## ⚙️ Funcionalidades do Sistema
+## Funcionalidades do Sistema
 
 * ➕ Criar registros (Create)
 * 📄 Listar registros (Read)
