@@ -41,7 +41,8 @@ A organização do projeto segue uma separação clara de responsabilidades, apl
 
 📦 servico → ProdutoServico
 
-🚀 Main.java na raiz da pasta src
+Main na pasta raiz (src)
+
 ---
 
 ## Como Executar o Projeto
